@@ -107,8 +107,15 @@
 ---
 
 ## 📱 Скриншоты приложения
-![Screenshot_20250519-195906](https://github.com/user-attachments/assets/40660459-c047-4f99-a9bd-6404e896a672)
-![Screenshot_20250519-200501](https://github.com/user-attachments/assets/bbe59737-9225-4068-8d91-5f744437464d)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/40660459-c047-4f99-a9bd-6404e896a672"
+       alt="Скриншот 1"
+       width="300"/>
+  <img src="https://github.com/user-attachments/assets/bbe59737-9225-4068-8d91-5f744437464d"
+       alt="Скриншот 2"
+       width="300"/>
+</p>
+
 
 ---
 
