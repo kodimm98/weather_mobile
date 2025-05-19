@@ -120,4 +120,4 @@
 ---
 
 ## 📝 Автор
-kodimm98
+- [kodimm98](https://github.com/kodimm98)
